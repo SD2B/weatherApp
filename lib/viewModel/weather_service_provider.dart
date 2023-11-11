@@ -1,6 +1,6 @@
 import 'dart:convert';
-import 'package:apiweatherapp/models/weather_response_model.dart';
-import 'package:apiweatherapp/screts/api.dart';
+import 'package:apiweatherapp/model/weather_response_model.dart';
+import 'package:apiweatherapp/secrets/api.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:http/http.dart' as http;
 

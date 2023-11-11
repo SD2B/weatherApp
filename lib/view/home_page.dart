@@ -317,9 +317,8 @@ class _HomePageState extends State<HomePage> {
               top: 70,
               left: 20,
               right: 20,
-              bottom: 330,
               child: Container(
-                height: 45,
+                height: 60,
                 child: Row(
                   children: [
                     Expanded(

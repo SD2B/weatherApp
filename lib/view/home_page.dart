@@ -1,6 +1,6 @@
 import 'package:apiweatherapp/data/image_path.dart';
-import 'package:apiweatherapp/services/location_provider.dart';
-import 'package:apiweatherapp/services/weather_service_provider.dart';
+import 'package:apiweatherapp/viewModel/location_provider.dart';
+import 'package:apiweatherapp/viewModel/weather_service_provider.dart';
 import 'package:apiweatherapp/utils/apptext.dart';
 import 'package:apiweatherapp/utils/constants.dart';
 import 'package:apiweatherapp/utils/customClass.dart';

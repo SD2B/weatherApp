@@ -1,4 +1,4 @@
-import 'package:apiweatherapp/services/location_service.dart';
+import 'package:apiweatherapp/viewModel/location_service.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:geocoding/geocoding.dart';
 import 'package:geolocator/geolocator.dart';

@@ -1,5 +1,5 @@
-import 'package:apiweatherapp/services/location_provider.dart';
-import 'package:apiweatherapp/services/weather_service_provider.dart';
+import 'package:apiweatherapp/viewModel/location_provider.dart';
+import 'package:apiweatherapp/viewModel/weather_service_provider.dart';
 import 'package:apiweatherapp/view/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

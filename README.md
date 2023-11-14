@@ -1,16 +1,14 @@
-# apiweatherapp
+# API integrated Weather App
 
-A new Flutter project.
+## API Used
+I used the OpenWeatherMap API to retrieve weather data. The endpoint we utilized is as follows:
 
-## Getting Started
+API Endpoint: https://api.openweathermap.org/data/2.5/weather?lat={latitude}&lon={longitude}&appid={api_key}&units=metric
+KEY : 15f958d72a82ae04f2b70568b2a8e082 NOTE : If the provided key doesn't work, you can try creating an account at OpenWeatherMap and generate a new key. It's free.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![WhatsApp Image 2023-11-14 at 11 05 42_36369d9c](https://github.com/SD2B/weatherApp/assets/148523927/79911d2f-b573-4f21-9862-3a767f5ed55c)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/SD2B/weatherApp/assets/148523927/68a8dec4-9038-4c58-8b84-9bbfdcee0cb9
